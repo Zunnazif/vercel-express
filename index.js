@@ -52,8 +52,8 @@ route.post('/text-mail', (req, res) => {
 route.post('/attachments-mail', (req, res) => {
     const { sendTo, subject, bodyHTML } = req.body;
     const mailData = {
-        from: 'zunna.digital47@gmail.com',
-        to: to,
+        from: process.env.EMAIL,
+        to: sendTo,
         subject: subject,
         html: bodyHTML,
         attachments: [
