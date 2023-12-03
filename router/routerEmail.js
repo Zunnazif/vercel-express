@@ -39,31 +39,4 @@ route.post('/SendToEmail', (req, res) => {
     });
 })
 
-route.post('/attachments-mail', (req, res) => {
-    const { sendTo, subject, bodyHTML } = req.body;
-    const mailData = {
-        from: process.env.EMAIL,
-        to: sendTo,
-        subject: subject,
-        html: bodyHTML,
-        attachments: [
-            {   // file on disk as an attachment
-                filename: 'nodemailer.png',
-                path: 'nodemailer.png'
-            },
-            {   // file on disk as an attachment
-                filename: 'text_file.txt',
-                path: 'text_file.txt'
-            }
-        ]
-    };
-
-    transporter.sendMail(mailData, (error, info) => {
-        if (error) {
-            return console.log(error);
-        }
-        res.status(200).send({ message: "Mail send", message_id: info.messageId });
-    });
-});
-
 module.exports = route
