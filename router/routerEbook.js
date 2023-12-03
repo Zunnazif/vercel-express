@@ -1,7 +1,7 @@
 const express = require("express")
 const route = express.Router();
 const fs = require('fs')
-const data = JSON.parse(fs.readFileSync(__dirname + "./ebookDb.json", "utf8")).data
+const data = JSON.parse(fs.readFileSync(__dirname + "/ebookDb.json", "utf8")).data
 
 route.post("/GetMultipleEBookByName", (req, res) => {
 
