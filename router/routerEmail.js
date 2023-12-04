@@ -1,7 +1,7 @@
-const express = require("express")
-const route = express.Router();
-const nodemailer = require('nodemailer');
+import express from 'express';
+import nodemailer from 'nodemailer';
 
+const route = express.Router();
 
 const transporter = nodemailer.createTransport({
     port: 465,
@@ -39,4 +39,4 @@ route.post('/SendToEmail', (req, res) => {
     });
 })
 
-module.exports = route
+export default route
