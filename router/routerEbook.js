@@ -45,15 +45,15 @@ route.post('/GetMultipleEBookBySKU', (req, res) => {
         ebooks.filter(item => {
             if (item.sku == arrSplit[i]) {
                 result.push(item)
-            }
+            } 
         })
     }
-    
+
     if (result.length > 0) {
         res.send({
             eBooks: result, 
             message: `Berhasil Mengambil ${result.length} Link E-Book`, 
-            isSucceeded: true
+            isSucceeded: true,
         })
     } else {
         res.send({

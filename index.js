@@ -2,10 +2,12 @@ import express from 'express';
 import bodyParser from 'body-parser';
 import path from 'path';
 import cors from 'cors';
-import 'dotenv/config';
 import routerEmail from './router/routerEmail.js';
 import routerEbook from './router/routerEbook.js';
 import { fileURLToPath } from 'url';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 const app = express();
 // Parse incoming requests data (https://github.com/expressjs/body-parser)
@@ -32,9 +34,6 @@ app.get("/", (req, res) => {
         }
     });
 });
-
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
 
 app.listen(port, () => {
     console.log(`Server listening on port ${port}`);
