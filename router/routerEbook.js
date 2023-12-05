@@ -14,6 +14,8 @@ route.post('/GetMultipleEBookByName', (req, res) => {
 
     const { bookName } = req.body;
 
+    console.log(bookName)
+
     const keywordToSearch = bookName;
     const keyword = keywordToSearch.toLowerCase();
     const result = ebooks.filter(item => item.bookName.toLowerCase().indexOf(keyword) > -1)

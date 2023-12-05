@@ -6,14 +6,23 @@ const route = express.Router();
 
 route.post('/SendToEmail', (req, res) => {
 
-    const { nameFrom, sendFrom, pass, nameTo, sendTo, subject, bodyHTML } = req.body;
+    const { 
+        nameFrom, 
+        sendFrom, 
+        password, 
+        nameTo, 
+        sendTo, 
+        subject, 
+        bodyHTML 
+    } = req.body;
+    
 
     const transporter = nodemailer.createTransport({
         port: 465,
         host: "smtp.gmail.com",
         auth: {
             user: sendFrom,
-            pass: pass,
+            pass: password,
         },
         secure: true, // upgrades later with STARTTLS -- change this based on the PORT
     });
@@ -35,15 +44,8 @@ route.post('/SendToEmail', (req, res) => {
         if (error) {
             return console.log(error);
         }
-        res.status(200).send({ message: "Mail send", response: info.envelope});
+        res.status(200).send({ isSucceeded: true, message: "Mail send", response: info.envelope});
         
-        previewEmail(mailData)
-        .then(data => {
-            return res.status(200).send({email: data})
-        })
-        .catch(err => {
-            return console.log(err)
-        })
     });
 })
 
