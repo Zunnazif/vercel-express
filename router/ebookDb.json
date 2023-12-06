@@ -2549,6 +2549,41 @@
           "sku": 610,
           "bookName": "Malam Terakhir by Leila S. Chudori",
           "link": "https://drive.google.com/file/d/1cfXVfSad4fBQ6Bhc4a4Mh5mFQDx7X2GM/view?usp=drive_link"
-      }
+      },
+      {
+        "sku": "611",
+        "bookName": "Bibi Gill by Tere Liye",
+        "link": "https://drive.google.com/file/d/140DVHsAZjaDpX6njvbItyenw02JvFvZs/view?usp=sharing"
+    },
+    {
+        "sku": "612",
+        "bookName": "Sagaras by Tere Liye",
+        "link": "https://drive.google.com/file/d/1CyaqoOTcv7QnB1URiBzf9fc8X-cIk-Rh/view?usp=drive_link"
+    },
+    {
+        "sku": "613",
+        "bookName": "Silence by Wiwi Suyanti",
+        "link": "https://drive.google.com/file/d/1J2MljcF8DGwLpuC8Mk1F_FycUlvpsBp4/view?usp=drive_link"
+    },
+    {
+        "sku": "614",
+        "bookName": "Forgetting Not Forgotten by Wiwi Suyanti",
+        "link": "https://drive.google.com/file/d/1sd7oiYWgoU4F86THe94axdmgr_sU11oD/view?usp=drive_link"
+    },
+    {
+        "sku": "615",
+        "bookName": "She's The Boss by Wiwi Suyanti",
+        "link": "https://drive.google.com/file/d/147WNWdoRrwwNDB2824POViBNWnfujGDv/view?usp=drive_link"
+    },
+    {
+        "sku": "616",
+        "bookName": "Someday I Choose You by Wiwi Suyanti",
+        "link": "https://drive.google.com/file/d/1yoiK76k3TG3oO2AfsOibcNcameLw68Hm/view?usp=drive_link"
+    },
+    {
+        "sku": "617",
+        "bookName": "Someday Unexpected Love by Wiwi Suyanti, Winola",
+        "link": "https://drive.google.com/file/d/1ahn-XOsievc86wxK8pRtX2Eby5ybKv-3/view?usp=drive_link"
+    }
   ]
 }
