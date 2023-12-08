@@ -1787,7 +1787,7 @@
       },
       {
           "sku": 458,
-          "bookName": "Home weet Loan by Almira Bastari",
+          "bookName": "Home Sweet Loan by Almira Bastari",
           "link": "https://drive.google.com/file/d/1Tib-mxxBJvtUBETalSAYJk1-Eows3F59/view?usp=drive_link"
       },
       {
@@ -2604,6 +2604,11 @@
         "sku": "621",
         "bookName": "Jarak Antarbintang by Naimmah Nur Aini",
         "link": "https://drive.google.com/file/d/1RlmO1ZHAY0t5-FFaXg9kVq8GVPH2r4iM/view?usp=sharing"
+    },
+    {
+        "sku": "622",
+        "bookName": "Intersection by Khalinta",
+        "link": "https://drive.google.com/file/d/1iLbgqVkTIUs0Vd2iQSA5o1KeVxfr1Nwv/view?usp=sharing"
     }
   ]
 }
