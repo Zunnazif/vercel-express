@@ -44,7 +44,7 @@ route.post('/SendToEmail', (req, res) => {
         if (error) {
             return console.log(error);
         }
-        res.status(200).send({ isSucceeded: true, message: "Mail send", response: info.envelope});
+        res.status(200).send({ isSucceeded: true, message: "Mail send", response: info.envelope.to[0]});
         
     });
 })
