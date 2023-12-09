@@ -2603,12 +2603,47 @@
     {
         "sku": "621",
         "bookName": "Jarak Antarbintang by Naimmah Nur Aini",
-        "link": "https://drive.google.com/file/d/1RlmO1ZHAY0t5-FFaXg9kVq8GVPH2r4iM/view?usp=sharing"
+        "link": "https://drive.google.com/file/d/1RlmO1ZHAY0t5-FFaXg9kVq8GVPH2r4iM/view?usp=drive_link"
     },
     {
         "sku": "622",
         "bookName": "Intersection by Khalinta",
-        "link": "https://drive.google.com/file/d/1iLbgqVkTIUs0Vd2iQSA5o1KeVxfr1Nwv/view?usp=sharing"
+        "link": "https://drive.google.com/file/d/1iLbgqVkTIUs0Vd2iQSA5o1KeVxfr1Nwv/view?usp=drive_link"
+    },
+    {
+        "sku": "623",
+        "bookName": "A Conjuring of Light (Pemanggil Cahaya) by V.E. Schwab",
+        "link": "https://drive.google.com/file/d/1N5MEOFxToUyrjIIET02tZx-jzwaRIwUx/view?usp=drive_link"
+    },
+    {
+        "sku": "624",
+        "bookName": "A Gathering of Shadows (Penguasa Bayangan) by V.E. Schwab",
+        "link": "https://drive.google.com/file/d/1DmIF8JlG_o_rmQFz25lfl4f4BZ8ZnxG3/view?usp=drive_link"
+    },
+    {
+        "sku": "625",
+        "bookName": "China Rich Girlfriend (Kekasih Kaya Raya) by Kevin Kwan",
+        "link": "https://drive.google.com/file/d/1aIQUNzD1Klk2oXKs9-zdF9_cv0DJ8eY7/view?usp=drive_link"
+    },
+    {
+        "sku": "626",
+        "bookName": "Jungkir Balik Dunia Ocha by Aziza Hazeha",
+        "link": "https://drive.google.com/file/d/1jDK6mFQtvrFbKh4lkOeFfM2T7Wi6dk6x/view?usp=drive_link"
+    },
+    {
+        "sku": "627",
+        "bookName": "Samantha by Risa Saraswati",
+        "link": "https://drive.google.com/file/d/1bA3hSg_XuZ9EcrCNVGSR7bxH_4FjH1g9/view?usp=drive_link"
+    },
+    {
+        "sku": "628",
+        "bookName": "The Chemist - SangAhli Kimia by Stepheni Meyer",
+        "link": "https://drive.google.com/file/d/1a0AI6ucaCMqiXoQnD9NcTwiQy22luu9T/view?usp=drive_link"
+    },
+    {
+        "sku": "629",
+        "bookName": "Vicious (Pengkhianatan) by V. E. Schwab",
+        "link": "https://drive.google.com/file/d/1d5twlwBchl2ZhXy0JBbMLXBM5Uzg2Emc/view?usp=drive_link"
     }
   ]
 }
