@@ -23,7 +23,7 @@
         },
         {
             "sku": 104,
-            "bookName": "Re dan peREmpuan",
+            "bookName": "Re dan peREmpuan by Maman Suherman",
             "link": "https://drive.google.com/file/d/1HEPzCaSwdc2keZS-H0f_KhNySPmX-lPX/view?usp=drive_link",
             "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/104.jpg",
             "price": 980
@@ -93,7 +93,7 @@
         },
         {
             "sku": 114,
-            "bookName": "Bumi by Tere Li",
+            "bookName": "Bumi by Tere Liye",
             "link": "https://drive.google.com/file/d/1CxGBsi3KNjN0NMDzzZXNldZNvTkzRt4J/view?usp=drive_link",
             "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/114.jpg",
             "price": 980
@@ -128,7 +128,7 @@
         },
         {
             "sku": 119,
-            "bookName": "Hello by Tere Li",
+            "bookName": "Hello by Tere Liye",
             "link": "https://drive.google.com/file/d/1lhXAaP0aNElkk4vwti5acAZpU1EMfFQo/view?usp=drive_link",
             "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/119.jpg",
             "price": 980
@@ -1415,13 +1415,6 @@
             "price": 980
         },
         {
-            "sku": 303,
-            "bookName": "Better Than This by Pradnya Paramitha",
-            "link": "https://drive.google.com/file/d/1KHSbU88gt1tFyamGeuU4BqdzuklcPXHD/view?usp=drive_link",
-            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/303.jpg",
-            "price": 980
-        },
-        {
             "sku": 304,
             "bookName": "Bitterballen Love by Alana Izarra",
             "link": "https://drive.google.com/file/d/1QUvhhaR_kD0q-4oq3Nmvo9ZOvsJDtRV4/view?usp=drive_link",
@@ -1555,13 +1548,6 @@
             "price": 980
         },
         {
-            "sku": 323,
-            "bookName": "Algoritme Rasa (Job Series #3) by Pradnya Paramitha",
-            "link": "https://drive.google.com/file/d/1YovPzi7kI0LPKlH2LqYPOsHQ87Qxfbrt/view?usp=drive_link",
-            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/323.jpg",
-            "price": 980
-        },
-        {
             "sku": 324,
             "bookName": "Aneka Makanan Minuman untuk Mencerdaskan Otak Bayi by Anidya Kedasih",
             "link": "https://drive.google.com/file/d/1aXYaTme4M0FPsVllSiCAkWFyM8HdcE-0/view?usp=drive_link",
@@ -1664,13 +1650,6 @@
             "bookName": "Sang Pemimpi by Andrea Hirata",
             "link": "https://drive.google.com/file/d/1wrlEhecfXaz1axukhMkRaCcBtIXBv_CF/view?usp=drive_link",
             "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/338.jpg",
-            "price": 980
-        },
-        {
-            "sku": 339,
-            "bookName": "Kala Langit Abu-Abu by Pradnya Paramitha",
-            "link": "https://drive.google.com/file/d/1sOkBjAweaCl7ag5Yj6KGTdUHWDfGJFRG/view?usp=drive_link",
-            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/339.jpg",
             "price": 980
         },
         {
@@ -2245,13 +2224,6 @@
             "bookName": "Semua Ikan di Langit by Ziggy Zezsyazeoviennazabrizkie-1 co",
             "link": "https://drive.google.com/file/d/1hSyqZXU09ZEsT-csX7ut-V_agAwDMvHX/view?usp=drive_link",
             "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/421.jpg",
-            "price": 980
-        },
-        {
-            "sku": 422,
-            "bookName": "Tentang Kita yang Tak Mengerti Makna Sia-sia by Pradnya Paramitha",
-            "link": "https://drive.google.com/file/d/18ARskh4mDcWV9xw6ILZ5LfNuYeJQzccl/view?usp=drive_link",
-            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/422.jpg",
             "price": 980
         },
         {
