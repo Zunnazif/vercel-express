@@ -4196,15 +4196,225 @@
         {
             "sku": 704,
             "bookName": "Perempuan Kedua by Ollyjayzee",
-            "link": "https://drive.google.com/file/d/18ggrIYpniMrorQcH3qZaE7zNSK09ltoa/view?usp=sharing",
+            "link": "https://drive.google.com/file/d/18ggrIYpniMrorQcH3qZaE7zNSK09ltoa/view?usp=drive_link",
             "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/704.jpg",
             "price": 980
         },
         {
             "sku": 705,
             "bookName": "Marry Me, Marry Me Not by Ollyjayzee",
-            "link": "https://drive.google.com/file/d/1r89jclPew8pzaWM43o5yB7A0yM6aVT8h/view?usp=sharing",
-            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/705jpg",
+            "link": "https://drive.google.com/file/d/1r89jclPew8pzaWM43o5yB7A0yM6aVT8h/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/705.jpg",
+            "price": 980
+        },
+        {
+            "sku": 706,
+            "bookName": "3 Jurus Kilat Kuasai Matematika",
+            "link": "https://drive.google.com/file/d/10THIv1d4f0d6lbZAtmrHdaMDDflSIh1M/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/706.jpg",
+            "price": 980
+        },
+        {
+            "sku": 707,
+            "bookName": "Bahasa Inggris Sistem 52M Volume.1 by Herpinus Simanjuntak",
+            "link": "https://drive.google.com/file/d/1wdHDr2q0Xqz2aKfSIF3slCDqjYlwpd-u/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/707.jpg",
+            "price": 980
+        },
+        {
+            "sku": 708,
+            "bookName": "Bahasa Inggris Sistem 52M Volume 2 by Herpinus Simanjuntak",
+            "link": "https://drive.google.com/file/d/1Z3S-FonSkjFMOpUSRcgNOtFZida7BMx8/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/708.jpg",
+            "price": 980
+        },
+        {
+            "sku": 709,
+            "bookName": "Bahasa Jepang untuk Pemula by Herpinus Simanjuntak",
+            "link": "https://drive.google.com/file/d/1g-AiGlVP9PaHIp7jyvUTD3eYcnMVELfs/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/709.jpg",
+            "price": 980
+        },
+        {
+            "sku": 710,
+            "bookName": "Big Book Biologi SMA Kelas 1, 2,  3",
+            "link": "https://drive.google.com/file/d/1erJFjyjnQtJ-1B390lJynvlqpQ0igQf1/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/710.jpg",
+            "price": 980
+        },
+        {
+            "sku": 711,
+            "bookName": "Big Book Fisika SMA Kelas 1, 2, 3",
+            "link": "https://drive.google.com/file/d/1S0oe8koeozLefIonzbPOz4jyT6mAUDyA/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/711.jpg",
+            "price": 980
+        },
+        {
+            "sku": 712,
+            "bookName": "Big Book Kimia SMA Kelas 1, 2,  3",
+            "link": "https://drive.google.com/file/d/1agDIgxkuFjd6eV7vBW87XRp25g28MxDs/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/712.jpg",
+            "price": 980
+        },
+        {
+            "sku": 713,
+            "bookName": "Big Book Matematika SMA Kelas 1, 2,  3",
+            "link": "https://drive.google.com/file/d/1QHmEdGwln8iVfdO6-KZZoqINfROb1Mh4/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/713.jpg",
+            "price": 980
+        },
+        {
+            "sku": 714,
+            "bookName": "Big Book IPA SMP Kelas 1, 2,  3",
+            "link": "https://drive.google.com/file/d/1pKjyJWcptGu7Lu99voloZxX9PCMsMRse/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/714.jpg",
+            "price": 980
+        },
+        {
+            "sku": 715,
+            "bookName": "BIG Psikotes Terlengkap by Tim Psikologi Salemba",
+            "link": "https://drive.google.com/file/d/1FUwqLX8h9N_G8s9caApOEcAeU5PzCzhG/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/715.jpg",
+            "price": 980
+        },
+        {
+            "sku": 716,
+            "bookName": "Chicken Soup For The Soul Doa-Doa Yang Terkabul by Jack Canfield, Mark Victor Hansen etc.",
+            "link": "https://drive.google.com/file/d/1ZNecFZClxNooQAeavKWED-jW5QMFnNE7/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/716.jpg",
+            "price": 980
+        },
+        {
+            "sku": 717,
+            "bookName": "Fihi Ma Fihi - Mengarungi Samudera Kebijaksanaan by Jalaluddin Rumi",
+            "link": "https://drive.google.com/file/d/1HlsLuWhUqWlEgWKnFeWpgUDGaCPjjqON/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/717.jpg",
+            "price": 980
+        },
+        {
+            "sku": 718,
+            "bookName": "I Want to Die But I Want to Eat Tteokbokki by Baek Sehee",
+            "link": "https://drive.google.com/file/d/16X4WYLDvOp31s3qW5qX1H5cH2JVJa8I2/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/718.jpg",
+            "price": 980
+        },
+        {
+            "sku": 719,
+            "bookName": "Kunci Inggris by Inspira Research Center",
+            "link": "https://drive.google.com/file/d/1if3SxIYpu8_tQyN3mO49h5xPLxNIo-vG/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/719.jpg",
+            "price": 980
+        },
+        {
+            "sku": 720,
+            "bookName": "Lockwood  Co. The Screaming Staircase (Undakan Menjerit) by Jonathan Stroud",
+            "link": "https://drive.google.com/file/d/1hutcUMoKW6QTu5yAev4ixI8w-aa2_bby/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/720.jpg",
+            "price": 980
+        },
+        {
+            "sku": 721,
+            "bookName": "Muhammad Sang Guru - Meneladani 40 Metode Pendidikan Nabi by Abdul Fattah Abu Ghuddah",
+            "link": "https://drive.google.com/file/d/14HrRbOa3u-G2fi_0DCdSlIoXqEks03KV/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/721.jpg",
+            "price": 980
+        },
+        {
+            "sku": 722,
+            "bookName": "New Edition Big Book IPA SD-MI Kelas 4, 5,  6",
+            "link": "https://drive.google.com/file/d/1Fp8Tk_KwTpJpMdJd-osNdSvi3MWnVt8w/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/722.jpg",
+            "price": 980
+        },
+        {
+            "sku": 723,
+            "bookName": "New Edition Big Book Matematika SD-MI Kelas 4, 5,  6",
+            "link": "https://drive.google.com/file/d/1pZI1GiBaopEhjuLQWLlZwligZIoCRJWh/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/723.jpg",
+            "price": 980
+        },
+        {
+            "sku": 724,
+            "bookName": "New Edition Big Book Matematika SMP Kelas VII, VIII  IX ",
+            "link": "https://drive.google.com/file/d/1FdFHxpAq6Kpr73bglg9tAnPNx1XBrN5w/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/724.jpg",
+            "price": 980
+        },
+        {
+            "sku": 725,
+            "bookName": "Otodidak Belajar Pemrograman untuk Pemula by Jubilee Enterprise",
+            "link": "https://drive.google.com/file/d/12jpY7bU-YdLx9BF8LSItxVLI4JVffkFF/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/725.jpg",
+            "price": 980
+        },
+        {
+            "sku": 726,
+            "bookName": "Perempuan di Titik Nol by Nawal El-Saadawi",
+            "link": "https://drive.google.com/file/d/1ii_hWN_XNs9zdcC2hJ3ilk30EZCxufns/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/726.jpg",
+            "price": 980
+        },
+        {
+            "sku": 727,
+            "bookName": "Perempuan, Masyarakat Patriarki  Kesetaraan Gender by Lusia Palulungan, M. Ghufran H. Kordi K. etc",
+            "link": "https://drive.google.com/file/d/1hZOrVTFz5fQ0Dcev4OWOhpAs73CS2sd8/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/727.jpg",
+            "price": 980
+        },
+        {
+            "sku": 728,
+            "bookName": "Seni Mencintai by Erich Fromm",
+            "link": "https://drive.google.com/file/d/1SEDWD7K-SK8yVrjyNsUTNwzs-ohqWxyy/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/728.jpg",
+            "price": 980
+        },
+        {
+            "sku": 729,
+            "bookName": "Setelah Hujan Reda by Boy Candra",
+            "link": "https://drive.google.com/file/d/1S-s6WAT4xyOr4Dm-CqIHj62Kd9kpdodr/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/729.jpg",
+            "price": 980
+        },
+        {
+            "sku": 730,
+            "bookName": "Sukses Psikotes Kumpulan 1001 Soal + Bahas Psikotes Terlengkap by Ardani Prawira",
+            "link": "https://drive.google.com/file/d/1G6nDFG78fX2fg7ZfcxKNZseID2vc05e_/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/730.jpg",
+            "price": 980
+        },
+        {
+            "sku": 731,
+            "bookName": "Terapi Penyakit Hati Menjernihkan Hati untuk Menggapai Ridha Allah by Ibnul Qayyim al-Jauziyyah",
+            "link": "https://drive.google.com/file/d/1Q9N8bs97eb9CdP_OLu_IOAXNlB7JZbwt/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/731.jpg",
+            "price": 980
+        },
+        {
+            "sku": 732,
+            "bookName": "Terapi Spiritual by Ibnu Al-jauzi",
+            "link": "https://drive.google.com/file/d/1G4E-X4CTpApFJ_HTAqtCPuOU11qfwIMn/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/732.jpg",
+            "price": 980
+        },
+        {
+            "sku": 733,
+            "bookName": "The Long Walk (Jalan Kaki Sampai Mati) by Stephen King",
+            "link": "https://drive.google.com/file/d/1gEWl99mY7J859Xa7EdD_hb-VK0CQhIMg/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/733.jpg",
+            "price": 980
+        },
+        {
+            "sku": 734,
+            "bookName": "The Waste Lands (Negeri Petaka) by Stephen King",
+            "link": "https://drive.google.com/file/d/1mEfLHzFQ-wB2wVfZs-mNR5vFOfNb_Ov3/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/734.jpg",
+            "price": 980
+        },
+        {
+            "sku": 735,
+            "bookName": "Mengungkap Perbedaan Pikiran Pria dan Wanita Agar Sukses Menjalin Hubungan by Allan Pease - Barbara Pease",
+            "link": "https://drive.google.com/file/d/1JsGoSXCKc6N3xS9sAbadagBFOqWvDDF2/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/735.jpg",
             "price": 980
         }
     ]
