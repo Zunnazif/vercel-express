@@ -4416,6 +4416,13 @@
             "link": "https://drive.google.com/file/d/1JsGoSXCKc6N3xS9sAbadagBFOqWvDDF2/view?usp=drive_link",
             "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/735.jpg",
             "price": 980
+        },
+        {
+            "sku": 736,
+            "bookName": "Pasta Kacang Merah by Durian Sukegawa",
+            "link": "https://drive.google.com/file/d/1ux0X4JDSx2_7dyK-1wiC33nEvbNVUQYa/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/736.jpg",
+            "price": 980
         }
     ]
 }
