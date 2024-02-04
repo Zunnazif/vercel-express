@@ -4745,6 +4745,20 @@
             "link": "https://drive.google.com/file/d/1K5fSbB_c19rcch7v_vphNjpdyWEV9-jY/view?usp=drive_link",
             "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/782.jpg",
             "price": 980
+        },
+        {
+            "sku": 783,
+            "bookName": "Thank You  Good Bye by Greya Craz",
+            "link": "https://drive.google.com/file/d/10kY5xwkhCXjdx3lR1LKFY8O9J2KLzbA0/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/783.jpg",
+            "price": 980
+        },
+        {
+            "sku": 784,
+            "bookName": "The Wangs vs. the World by Chang Jade (English)",
+            "link": "https://drive.google.com/file/d/14lqq531OgBwLxYdlkzt5ZxbiiyvMwKyS/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/784.jpg",
+            "price": 980
         }
     ]
 }
