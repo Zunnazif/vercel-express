@@ -4755,9 +4755,16 @@
         },
         {
             "sku": 784,
-            "bookName": "The Wangs vs. the World by Chang Jade (English)",
+            "bookName": "Serpihan Hati by Alnira",
             "link": "https://drive.google.com/file/d/14lqq531OgBwLxYdlkzt5ZxbiiyvMwKyS/view?usp=drive_link",
             "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/784.jpg",
+            "price": 980
+        },
+        {
+            "sku": 785,
+            "bookName": "Invisible Women Exposing Data Bias in a World Designed for Men by Caroline Criado Perez (English)",
+            "link": "https://drive.google.com/file/d/14lqq531OgBwLxYdlkzt5ZxbiiyvMwKyS/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/785.jpg",
             "price": 980
         }
     ]
