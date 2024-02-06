@@ -4748,7 +4748,7 @@
         },
         {
             "sku": 783,
-            "bookName": "Thank You and Good Bye by Greya Craz",
+            "bookName": "Thank You  Good Bye by Greya Craz",
             "link": "https://drive.google.com/file/d/10kY5xwkhCXjdx3lR1LKFY8O9J2KLzbA0/view?usp=drive_link",
             "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/783.jpg",
             "price": 980
@@ -4763,8 +4763,197 @@
         {
             "sku": 785,
             "bookName": "Invisible Women Exposing Data Bias in a World Designed for Men by Caroline Criado Perez (English)",
-            "link": "https://drive.google.com/file/d/14lqq531OgBwLxYdlkzt5ZxbiiyvMwKyS/view?usp=drive_link",
+            "link": "https://drive.google.com/file/d/1rPDzrsjPlA3rHlndZkDZCy0BDnew_J61/view?usp=drive_link",
             "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/785.jpg",
+            "price": 980
+        },
+        {
+            "sku": 786,
+            "bookName": "22 Hari Bercerita 1 Buku Pertama Kumpulan Cerita Anak",
+            "link": "https://drive.google.com/file/d/1OQ3OPrCcjmQRyyJfC0caahFY93r5_bKH/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/786.jpg",
+            "price": 980
+        },
+        {
+            "sku": 787,
+            "bookName": "100 Cerita Rakyat Nusantara by Dian Kristiani",
+            "link": "https://drive.google.com/file/d/1_dbyIMy_qR_2wX5VwsIFeIGZL9q8qPQr/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/787.jpg",
+            "price": 980
+        },
+        {
+            "sku": 788,
+            "bookName": "101 Kesalahan dalam Mendidik Anak by Dewi Iriani",
+            "link": "https://drive.google.com/file/d/1e69BEW1FLpEKBxbtWBvRjKWNSenPGEDA/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/788.jpg",
+            "price": 980
+        },
+        {
+            "sku": 789,
+            "bookName": "Agar Dimudahkan Rezeki by Asep Maulana  Abdullah Jinaan",
+            "link": "https://drive.google.com/file/d/1wZTwllJY6N_yd93zTCXgWEJ6aBHX3dbm/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/789.jpg",
+            "price": 980
+        },
+        {
+            "sku": 790,
+            "bookName": "Khadijah - Cinta Sejati Rasulullah by Abdul Munim Muhammad Umar",
+            "link": "https://drive.google.com/file/d/1NSwOxQ6ie8772b_HTpi1L_fGUG98b2oF/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/790.jpg",
+            "price": 980
+        },
+        {
+            "sku": 791,
+            "bookName": "Aminah - Permata Padang Pasir by Abdul Munim Muhammad Umar",
+            "link": "https://drive.google.com/file/d/1jlsq7IFTz-VcqStUtsvkx0oMnvWfH9wb/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/791.jpg",
+            "price": 980
+        },
+        {
+            "sku": 792,
+            "bookName": "Aisyah - Kekasih Yang Terindah by Said Al-Azhawi An-Nadawi",
+            "link": "https://drive.google.com/file/d/1jQALY-saCOfQdYEmpSZJlhvm2l2v96-N/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/792.jpg",
+            "price": 980
+        },
+        {
+            "sku": 793,
+            "bookName": "Fatimah Pemimpin Wanita di Surga by Fuad Abdurahman",
+            "link": "https://drive.google.com/file/d/1yvnGAf_aFpq8OcxlhmwePWbMIYQ588uI/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/793.jpg",
+            "price": 980
+        },
+        {
+            "sku": 794,
+            "bookName": "Aneh Dan Lucu 100 Kisah Menarik Penuh Ibrah",
+            "link": "https://drive.google.com/file/d/1aoCHckpiUSpUVHzna2gGg5c7hNCXm4Jq/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/794.jpg",
+            "price": 980
+        },
+        {
+            "sku": 795,
+            "bookName": "Belajar Konsep Logika Menggali Struktur Berpikir ke Arah Konsep Filsafat",
+            "link": "https://drive.google.com/file/d/1CfR48dSJjG-vTxwCqImUJGg1p-ou07j0/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/795.jpg",
+            "price": 980
+        },
+        {
+            "sku": 796,
+            "bookName": "Berislam Dengan Senyum by Ali Abdullah",
+            "link": "https://drive.google.com/file/d/12Kq4MA6necD9txAgIoi60vKIt_f3DfEs/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/796.jpg",
+            "price": 980
+        },
+        {
+            "sku": 797,
+            "bookName": "Big Business Poor Peoples - Bisnis Besar Menguasai Masyarakat Miskin by John Madeley",
+            "link": "https://drive.google.com/file/d/1ALI7pAT58XXxf3bv1D9tELnSmIKcDCUC/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/797.jpg",
+            "price": 980
+        },
+        {
+            "sku": 798,
+            "bookName": "Buku Pintar Hadits (Edisi Revisi) by Syamsul Rijal Hamid",
+            "link": "https://drive.google.com/file/d/1bqbeEnDfjfASKEm3K4HPPFUwmqxxMB1p/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/798.jpg",
+            "price": 980
+        },
+        {
+            "sku": 799,
+            "bookName": "Cahaya dari Madinah Mutiara Hikmah Penyejuk Jiwa by Syeikh Ali Jaber",
+            "link": "https://drive.google.com/file/d/1tf3m4sgeHGCJdA4sToGTb6qA0vNkIsEp/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/799.jpg",
+            "price": 980
+        },
+        {
+            "sku": 800,
+            "bookName": "Dahsyatnya Kekuatan Berpikir Positif by Norman Canfield",
+            "link": "https://drive.google.com/file/d/1s1yG5Gra7ZS-36-Zi46IWcmYIbd6cuH9/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/800.jpg",
+            "price": 980
+        },
+        {
+            "sku": 801,
+            "bookName": "Inspirasi Parenting dari Al-Quran by Mayyadah",
+            "link": "https://drive.google.com/file/d/1eHFpLIIFteMvnUe7OVTNSE0blQTaONOK/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/801.jpg",
+            "price": 980
+        },
+        {
+            "sku": 802,
+            "bookName": "Ensiklopedi Fiqih Wanita Jilid 1",
+            "link": "https://drive.google.com/file/d/15sjFoEOi5eRS8LM2VItVJERpkQauagPG/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/802.jpg",
+            "price": 980
+        },
+        {
+            "sku": 803,
+            "bookName": "Dasar–Dasar Bertanam Secara Hidroponik",
+            "link": "https://drive.google.com/file/d/143pIcBsfr91ApxoJn84vcNzjHqpGkiU4/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/803.jpg",
+            "price": 980
+        },
+        {
+            "sku": 804,
+            "bookName": "Petunjuk Teknis Budidaya Sayuran Hidroponik Bertanam Tanpa Media Tanah",
+            "link": "https://drive.google.com/file/d/13v2b1LApcH13YAZVEN6gp4eYQK2uGvS4/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/804.jpg",
+            "price": 980
+        },
+        {
+            "sku": 805,
+            "bookName": "Petunjuk Teknis Budidaya Tanaman Sayuran",
+            "link": "https://drive.google.com/file/d/14XzQ_xttpc8_XwzkLX_wcGs1FvxMfNP7/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/805.jpg",
+            "price": 980
+        },
+        {
+            "sku": 806,
+            "bookName": "Kebelet Kaya by Mardigu WP",
+            "link": "https://drive.google.com/file/d/10UbRb6dyRfiNCj_xDMjACtoaRbExT7Wu/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/806.jpg",
+            "price": 980
+        },
+        {
+            "sku": 807,
+            "bookName": "Legenda 4 Umara Besar by Indra Gunawan, Lc.",
+            "link": "https://drive.google.com/file/d/1YntHhEyYiiZDb1Avh9yWFEGgX7JEoOQX/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/807.jpg",
+            "price": 980
+        },
+        {
+            "sku": 808,
+            "bookName": "Panduan Shalat Lengkap Sesuai Tuntunan Rasulullah SAW",
+            "link": "https://drive.google.com/file/d/1zLur4NPlPskq9TZNIAkGWzcQvVJGxVL7/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/808.jpg",
+            "price": 980
+        },
+        {
+            "sku": 809,
+            "bookName": "Santri Bertanya by Ustadz Ahmad Zahrudin M. Nafis",
+            "link": "https://drive.google.com/file/d/1pfASdV5Q8CHPMYxZKW_Zn_EVOpRpCEv6/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/809.jpg",
+            "price": 980
+        },
+        {
+            "sku": 810,
+            "bookName": "Sifat Shalat Nabi by Muhammad Nashiruddin al Albani",
+            "link": "https://drive.google.com/file/d/1A7HxcuFUEG9HgT9UYWYiJmGE5QI6vXXa/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/810.jpg",
+            "price": 980
+        },
+        {
+            "sku": 811,
+            "bookName": "Trading vs Investing Strategi Meraih Keuntungan Melalui Tranding dan Investasi Secara Bersamaan by Ryan Filber",
+            "link": "https://drive.google.com/file/d/1Dy6tImO6vO-byso-qCXT9ace4oEunbBY/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/811.jpg",
+            "price": 980
+        },
+        {
+            "sku": 812,
+            "bookName": "Untung Besar Budidaya Tanaman Anggrek by Erna Damayanti",
+            "link": "https://drive.google.com/file/d/1sswSQN2BeVRxljfvCL6PI24m9Hv4veGD/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/812.jpg",
             "price": 980
         }
     ]
