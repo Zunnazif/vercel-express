@@ -4888,7 +4888,7 @@
         },
         {
             "sku": 803,
-            "bookName": "Dasar–Dasar Bertanam Secara Hidroponik",
+            "bookName": "Dasar-Dasar Bertanam Secara Hidroponik",
             "link": "https://drive.google.com/file/d/143pIcBsfr91ApxoJn84vcNzjHqpGkiU4/view?usp=drive_link",
             "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/803.jpg",
             "price": 980
@@ -4954,6 +4954,20 @@
             "bookName": "Untung Besar Budidaya Tanaman Anggrek by Erna Damayanti",
             "link": "https://drive.google.com/file/d/1sswSQN2BeVRxljfvCL6PI24m9Hv4veGD/view?usp=drive_link",
             "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/812.jpg",
+            "price": 980
+        },
+        {
+            "sku": 813,
+            "bookName": "You Belong to Me by Titi Sanaria",
+            "link": "https://drive.google.com/file/d/1nFg7gN5DYOz6BJw70u8z-xCPM_JUTA94/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/813.jpg",
+            "price": 980
+        },
+        {
+            "sku": 814,
+            "bookName": "Salt to the sea by Ruta Sepetys",
+            "link": "https://drive.google.com/file/d/1nDaqixFyWjlZb_kEduFnrt0Oo4Nhfgpv/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/814.jpg",
             "price": 980
         }
     ]
