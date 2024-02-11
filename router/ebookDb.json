@@ -4888,7 +4888,7 @@
         },
         {
             "sku": 803,
-            "bookName": "Dasar-Dasar Bertanam Secara Hidroponik",
+            "bookName": "Dasar–Dasar Bertanam Secara Hidroponik",
             "link": "https://drive.google.com/file/d/143pIcBsfr91ApxoJn84vcNzjHqpGkiU4/view?usp=drive_link",
             "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/803.jpg",
             "price": 980
@@ -4968,6 +4968,55 @@
             "bookName": "Salt to the sea by Ruta Sepetys",
             "link": "https://drive.google.com/file/d/1nDaqixFyWjlZb_kEduFnrt0Oo4Nhfgpv/view?usp=drive_link",
             "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/814.jpg",
+            "price": 980
+        },
+        {
+            "sku": 815,
+            "bookName": "Orang Islam Harus Kaya by Rachmat Ramadhana al-Banjari",
+            "link": "https://drive.google.com/file/d/1qpSOScDvCst_wTa_Hg1qbMo704iKnYc0/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/815.jpg",
+            "price": 980
+        },
+        {
+            "sku": 816,
+            "bookName": "Apalagi Islam itu Kalau Bukan Cinta by Husein Ja’far Al Hadar",
+            "link": "https://drive.google.com/file/d/10pqV9rBxqLv0VWCzSpmTkBTKIo7R3d1B/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/816.jpg",
+            "price": 980
+        },
+        {
+            "sku": 817,
+            "bookName": "Caraval (Caraval 1) by Stephanie Garber",
+            "link": "https://drive.google.com/file/d/1aIW4wEOzP2y4cOJQb6OKWubnHTfo6HUz/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/817.jpg",
+            "price": 980
+        },
+        {
+            "sku": 818,
+            "bookName": "Legendary (Caraval 2) by Stephanie Garber",
+            "link": "https://drive.google.com/file/d/1WtlZw8qt-Fsq1-LItPCkOeWqZ7f8Euzw/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/818.jpg",
+            "price": 980
+        },
+        {
+            "sku": 819,
+            "bookName": "Finale (Caraval 3) by Stephanie Garber",
+            "link": "https://drive.google.com/file/d/1RDEiaZm3FfADOY5_E4MoHaYcIHEugs6u/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/819.jpg",
+            "price": 980
+        },
+        {
+            "sku": 820,
+            "bookName": "Holding Back by Pipit Chie",
+            "link": "https://drive.google.com/file/d/1obed86zvP9fN-pX2_fY-P5_ylx6Jq9uK/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/820.jpg",
+            "price": 980
+        },
+        {
+            "sku": 821,
+            "bookName": "Angel, Baby by Pipit Chie",
+            "link": "https://drive.google.com/file/d/140OuNwQx6ZD9AYKevclqQEwRcduEaUNJ/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/821.jpg",
             "price": 980
         }
     ]
