@@ -5018,6 +5018,34 @@
             "link": "https://drive.google.com/file/d/140OuNwQx6ZD9AYKevclqQEwRcduEaUNJ/view?usp=drive_link",
             "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/821.jpg",
             "price": 980
+        },
+        {
+            "sku": 822,
+            "bookName": "Is This OK (Harriet Gibsone (English)",
+            "link": "https://drive.google.com/file/d/1fjWGFdUqq6FH8eOnECz7Pm4r9Bj2T9Fj/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/822.jpg",
+            "price": 980
+        },
+        {
+            "sku": 823,
+            "bookName": "Maneki Neko by Nobuo Suzuki (English)",
+            "link": "https://drive.google.com/file/d/1jRgsXGWw0aA5S_OUYuQkZ4qewdEipmgB/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/823.jpg",
+            "price": 980
+        },
+        {
+            "sku": 824,
+            "bookName": "Sweet Bean Paste by Durian Sukegawa (English)",
+            "link": "https://drive.google.com/file/d/1dANun6K8N2ZjeEVVmlujq8-RXlBhdo_C/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/824.jpg",
+            "price": 980
+        },
+        {
+            "sku": 825,
+            "bookName": "Bittersweet Love by Netty Virgiantini, Aditia Yudis",
+            "link": "https://drive.google.com/file/d/1xZdcJCll362j0d0tBRKlsAlyqCPcFO7j/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/825.jpg",
+            "price": 980
         }
     ]
 }
