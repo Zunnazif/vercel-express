@@ -5046,6 +5046,20 @@
             "link": "https://drive.google.com/file/d/1xZdcJCll362j0d0tBRKlsAlyqCPcFO7j/view?usp=drive_link",
             "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/825.jpg",
             "price": 980
+        },
+        {
+            "sku": 826,
+            "bookName": "Rumah Lebah Setiap Wajah Memiliki Rahasia by Ruwi Meita",
+            "link": "https://drive.google.com/file/d/1AQpV9_Rb2LNcwN53DBZ_O_md20Zdc3h6/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/826.jpg",
+            "price": 980
+        },
+        {
+            "sku": 827,
+            "bookName": "Thirteen Reasons Why by Jay Asher",
+            "link": "https://drive.google.com/file/d/1IYH9QS3pnozpDMqMeU7KX-OV2FlfC4tY/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/827.jpg",
+            "price": 980
         }
     ]
 }
