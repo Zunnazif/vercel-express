@@ -5060,6 +5060,41 @@
             "link": "https://drive.google.com/file/d/1IYH9QS3pnozpDMqMeU7KX-OV2FlfC4tY/view?usp=drive_link",
             "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/827.jpg",
             "price": 980
+        },
+        {
+            "sku": 828,
+            "bookName": "Ayat - Ayat Semesta - Agus Purwanto",
+            "link": "https://drive.google.com/file/d/1tyu5MhyjviulviGtw-OQBtsMBu3qQGL-/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/828.jpg",
+            "price": 980
+        },
+        {
+            "sku": 829,
+            "bookName": "Rich Dad Poor Dad by Robert T. Kiyosaki (English)",
+            "link": "https://drive.google.com/file/d/1WzAE1TW7q2JY-xvLbzNPrPVE-v4DRlRo/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/829.jpg",
+            "price": 980
+        },
+        {
+            "sku": 830,
+            "bookName": "An Unquiet Mind A Memoir of Moods and Madness by Kay Redfield Jamison (English)",
+            "link": "https://drive.google.com/file/d/1wZYH_Ix6iy2gHbt_qCTX_Ecms6C-Re9A/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/830.jpg",
+            "price": 980
+        },
+        {
+            "sku": 831,
+            "bookName": "Nalar Ayat-Ayat Semesta Menjadikan Al-Quran sebagai Basis Konstruksi Ilmu Pengetahuan",
+            "link": "https://drive.google.com/file/d/1CWtdvhvxPjkKShVE3D6KUIGPq0sJxo3n/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/831.jpg",
+            "price": 980
+        },
+        {
+            "sku": 832,
+            "bookName": "The Everything Health Guide to Adult Bipolar Disorder A Reassuring Guide for Patients and Families (English)",
+            "link": "https://drive.google.com/file/d/1U1JMR1AUgB9A2eRXELzQ1KUdw3KlEwQw/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/832.jpg",
+            "price": 980
         }
     ]
 }
