@@ -5095,6 +5095,27 @@
             "link": "https://drive.google.com/file/d/1U1JMR1AUgB9A2eRXELzQ1KUdw3KlEwQw/view?usp=drive_link",
             "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/832.jpg",
             "price": 980
+        },
+        {
+            "sku": 833,
+            "bookName": "Introduction To Bilingualism by Charlotte Hoffmann (English)",
+            "link": "https://drive.google.com/file/d/13zLbAJv0eReJtKMJjRZKyV3Wkl02U0Yz/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/833.jpg",
+            "price": 980
+        },
+        {
+            "sku": 834,
+            "bookName": "Nunchi Seni Membaca Pikiran dan Perasaan Orang Lain (Rahasia Hidup Bahagia dan Sukses dari Korea)",
+            "link": "https://drive.google.com/file/d/1N8G1zdqG2kQ8PQdvBdY1FPjpsFFCcb8s/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/834.jpg",
+            "price": 980
+        },
+        {
+            "sku": 835,
+            "bookName": "Move Like Jagger - Christian Simamora",
+            "link": "https://drive.google.com/file/d/1vAoIeKFEAkPqZKRM51jRkFhhOki7PMXE/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/834.jpg",
+            "price": 980
         }
     ]
 }
