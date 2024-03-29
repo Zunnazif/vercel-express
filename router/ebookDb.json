@@ -5114,7 +5114,14 @@
             "sku": 835,
             "bookName": "Move Like Jagger - Christian Simamora",
             "link": "https://drive.google.com/file/d/1vAoIeKFEAkPqZKRM51jRkFhhOki7PMXE/view?usp=drive_link",
-            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/834.jpg",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/835.jpg",
+            "price": 980
+        },
+        {
+            "sku": 836,
+            "bookName": "Second Sister by Chan Ho-Kei (English)",
+            "link": "https://drive.google.com/file/d/1IwKY9PE3jNp1XpA5w7Un-qJPonVAdR-U/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/836.jpg",
             "price": 980
         }
     ]
