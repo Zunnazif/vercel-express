@@ -5123,6 +5123,20 @@
             "link": "https://drive.google.com/file/d/1IwKY9PE3jNp1XpA5w7Un-qJPonVAdR-U/view?usp=drive_link",
             "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/836.jpg",
             "price": 980
+        },
+        {
+            "sku": 837,
+            "bookName": "In a Blue Moon (Indonesian Edition) Ilana Tan",
+            "link": "https://drive.google.com/file/d/1OQDqXgMBKhlcti5H6JE0eBM2Hqj1XScS/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/837.jpg",
+            "price": 980
+        },
+        {
+            "sku": 838,
+            "bookName": "The Tearsmith by Erin Doom (English)",
+            "link": "https://drive.google.com/file/d/1SVs7EIXDhSxGHghNZIgYgNayS7zAEsff/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/838.jpg",
+            "price": 980
         }
     ]
 }
