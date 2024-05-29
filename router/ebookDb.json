@@ -5536,6 +5536,20 @@
             "link": "https://drive.google.com/file/d/1KxUMGtoAHfRre6oQOd_G-awDzyks0f6e/view?usp=drive_link",
             "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/897.jpg",
             "price": 980
+        },
+        {
+            "sku": 898,
+            "bookName": "A Crane Among Wolves by June Hur (English)",
+            "link": "https://drive.google.com/file/d/1W-9iOcDWp8CJlG3UDa1yJsOD2JxGDNeE/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/898.jpg",
+            "price": 980
+        },
+        {
+            "sku": 899,
+            "bookName": "A Little Life A Novel by Hanya Yanagihara (English)",
+            "link": "https://drive.google.com/file/d/1Wve9fuT23k_7jCA_D8cTcxl7Y8jU5rBz/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/899.jpg",
+            "price": 980
         }
     ]
 }
