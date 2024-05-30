@@ -5550,6 +5550,13 @@
             "link": "https://drive.google.com/file/d/1Wve9fuT23k_7jCA_D8cTcxl7Y8jU5rBz/view?usp=drive_link",
             "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/899.jpg",
             "price": 980
+        },
+        {
+            "sku": 900,
+            "bookName": "The Red Palace by June Hur (English)",
+            "link": "https://drive.google.com/file/d/1nfAjD9JYCFfd7hXAnBVhTmhjj384ysfk/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/900.jpg",
+            "price": 980
         }
     ]
 }
