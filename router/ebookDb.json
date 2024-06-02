@@ -5557,6 +5557,13 @@
             "link": "https://drive.google.com/file/d/1nfAjD9JYCFfd7hXAnBVhTmhjj384ysfk/view?usp=drive_link",
             "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/900.jpg",
             "price": 980
+        },
+        {
+            "sku": 901,
+            "bookName": "How To Fix A Broken Heart by Guy Winch, Henn Kim (English)",
+            "link": "https://drive.google.com/file/d/1X0bYZRb7Fsuz_4Aj0fZp8HEscgCcb63L/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/901.jpg",
+            "price": 980
         }
     ]
 }
