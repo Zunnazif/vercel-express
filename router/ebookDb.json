@@ -5578,6 +5578,34 @@
             "link": "https://drive.google.com/file/d/1toxmRM0U_tafOsMYxyuaA7GWg1X7xIsz/view?usp=drive_link",
             "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/903.jpg",
             "price": 980
+        },
+        {
+            "sku": 904,
+            "bookName": "A Good Girls Guide to Murder by Holly Jackson (English)",
+            "link": "https://drive.google.com/file/d/1lcFeYkbxv-eqBmAy4ZjAPh5Nx_vIlmmn/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/904.jpg",
+            "price": 980
+        },
+        {
+            "sku": 905,
+            "bookName": "Words in Deep Blue by Cath Crowley",
+            "link": "https://drive.google.com/file/d/1ILpooDz8Qlx8rukhgXkNqs52nn_L6PqB/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/905.jpg",
+            "price": 980
+        },
+        {
+            "sku": 906,
+            "bookName": "Birthday Girl (Penelope Douglas) (English)",
+            "link": "https://drive.google.com/file/d/1R2BweywQrfiAOXPaEVxFoTcI6VrTzQly/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/906.jpg",
+            "price": 980
+        },
+        {
+            "sku": 907,
+            "bookName": "Bully by Penelope Douglas (English)",
+            "link": "https://drive.google.com/file/d/1LRZOMKh_-ZiclQsUF6OjB0Gf_k4n-AvA/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/907.jpg",
+            "price": 980
         }
     ]
 }
