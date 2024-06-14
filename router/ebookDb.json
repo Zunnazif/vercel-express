@@ -5606,6 +5606,27 @@
             "link": "https://drive.google.com/file/d/1LRZOMKh_-ZiclQsUF6OjB0Gf_k4n-AvA/view?usp=drive_link",
             "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/907.jpg",
             "price": 980
+        },
+        {
+            "sku": 908,
+            "bookName": "The Courage to be Disliked by Ichirō Kishimi, Fumitake Koga (English)",
+            "link": "https://drive.google.com/file/d/1nFVeqHFE0LrAzbRSHRPZcvBisQapG2Ru/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/908.jpg",
+            "price": 980
+        },
+        {
+            "sku": 909,
+            "bookName": "Tales from the Café by Toshikazu Kawaguchi (English)",
+            "link": "https://drive.google.com/file/d/1V7qynqjCiA4c7YAAbuCEgDAS0E1DnppX/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/909.jpg",
+            "price": 980
+        },
+        {
+            "sku": 910,
+            "bookName": "Good Vibes, Good Life How Self-Love Is the Key to Unlocking Your Greatness (English)",
+            "link": "https://drive.google.com/file/d/1rj7e_GTlZ3TGotFOQZP67bM4x3B3sKeH/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/910.jpg",
+            "price": 980
         }
     ]
 }
