@@ -5627,6 +5627,13 @@
             "link": "https://drive.google.com/file/d/1rj7e_GTlZ3TGotFOQZP67bM4x3B3sKeH/view?usp=drive_link",
             "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/910.jpg",
             "price": 980
+        },
+        {
+            "sku": 911,
+            "bookName": "Confessions by Kanae Minato (English)",
+            "link": "https://drive.google.com/file/d/1kZNIndu2xyPEXXYWCJf-NDWLbYCatdQw/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/911.jpg",
+            "price": 980
         }
     ]
 }
