@@ -5634,6 +5634,20 @@
             "link": "https://drive.google.com/file/d/1kZNIndu2xyPEXXYWCJf-NDWLbYCatdQw/view?usp=drive_link",
             "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/911.jpg",
             "price": 980
+        },
+        {
+            "sku": 912,
+            "bookName": "Third Party by Luna Torashyngu",
+            "link": "https://drive.google.com/file/d/1cWX2he_TGyDQXW7LyZj92bcMH8fyM9N3/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/912.jpg",
+            "price": 980
+        },
+        {
+            "sku": 913,
+            "bookName": "Second Heart by Luna Torashyngu",
+            "link": "https://drive.google.com/file/d/11NhC3jTF91EpqQ68m35CO1VM4LWm6YsF/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/913.jpg",
+            "price": 980
         }
     ]
 }
