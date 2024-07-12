@@ -5648,6 +5648,13 @@
             "link": "https://drive.google.com/file/d/11NhC3jTF91EpqQ68m35CO1VM4LWm6YsF/view?usp=drive_link",
             "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/913.jpg",
             "price": 980
+        },
+        {
+            "sku": 914,
+            "bookName": "Once Upon A Broken Heart by Stephanie Garber",
+            "link": "https://drive.google.com/file/d/1zdz3N6GlPqQDAA0luvUR62Fe3JFcChXG/view?usp=drive_link",
+            "linkPage": "https://raw.githubusercontent.com/Zunnazif/halaman-produk/main/halaman-produk/914.jpg",
+            "price": 980
         }
     ]
 }
